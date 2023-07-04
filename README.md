@@ -1,6 +1,6 @@
 # Tasks about my first python course
 
-## Topicos 
+## Topics 
 
 In File "Topicos" we have the following exemple models: 
 
